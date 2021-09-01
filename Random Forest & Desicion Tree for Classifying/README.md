@@ -6,6 +6,7 @@ I used two different algorithms one single classifier (Desicion Tree) and one en
 
   ![Image](./desition tree.png)
 
+
 - Random Forest: Acc on confusion matrix is about 80% and ROC Curve is shown below:
 
   ![Image](./random forest.png)

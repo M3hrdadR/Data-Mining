@@ -4,8 +4,8 @@ Features used in here were some health related feature like Age, BMI, Glucose le
 I used two different algorithms one single classifier (Desicion Tree) and one ensemble classifier (Random Fores), both based on Desicion Trees.
 - Desicion Tree: Acc on confusion matrix is about 65% and ROC Curve is shown below:
 
-  ![Image](./DesicionTree.jpg )
+  ![Image](./DecisionTree.jpg | width = 100 )
 
 - Random Forest: Acc on confusion matrix is about 80% and ROC Curve is shown below:
 
-  ![Image](./RandomForest.jpg )
+  ![Image](./RandomForest.jpg | width = 100)
